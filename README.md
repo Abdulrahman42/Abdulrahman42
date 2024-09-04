@@ -36,7 +36,7 @@
 <h3><b><samp>Example:</samp></b></h3>
   
 - [Word Analytics Vue](https://word-analytics-vue.netlify.app/) <br>
-- ![Word Analytics React](https://word-analytics-social.netlify.app/) <br>
+- [Word Analytics React](https://word-analytics-social.netlify.app/) <br>
 
 </div>
 
