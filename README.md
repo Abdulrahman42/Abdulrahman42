@@ -27,7 +27,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp>QNP (2020-Now)<br>
+- 👷 <samp>QNP (2020-2025)<br>
 - 👷 <samp>JobTech Singapore (2020-2024)<br>
 - 🔬 <samp>PT. Shopciety Digital Indonesia (2019-2020)<br>
 </div>
